@@ -21,16 +21,20 @@ The typical workflow is:
 
 LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step toward general custom embodiments is modifying the SO-101 by adding a motor. I connected this to a scale model logsplitter to perform autonomous log splitting on a desktop scale.
 
+#### Log Splitter
+
 ![Log splitter](images/log_splitter.png)
 
 [See the log splitter on YouTube](https://youtu.be/pou4PEhgJao)
 
 [Check out the log splitter on GitHub](https://github.com/ayerone/lerobot-logsplitter)
 
+#### Haptic Feedback Mod
+
 [lerobot_haptic_feedback](https://github.com/ayerone/lerobot_haptic_feedback) — Feedback teleoperation
 
 ### Safety Measures
 
-![Motor load plot](images/motor_load.png)
-
 [lerobot-guardian-angle](https://github.com/ayerone/lerobot-guardian-angle) — Monitoring and safeguarding the SO-101's motors during operation
+
+![Motor load plot](images/motor_load.png)
