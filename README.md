@@ -19,7 +19,7 @@ The typical workflow is:
 
 ### Modified Embodiments
 
-LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step toward general custom embodiments is modifying the SO-101 by adding a motor. I connected this to a scale model logsplitter to perform autonomous log splitting on a desktop scale.
+LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step toward general custom embodiments is modifying the SO-101 by adding a motor. I added a linear actuator and built a scale model log splitter to perform autonomous log splitting on a desktop scale.
 
 #### Log Splitter
 
