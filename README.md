@@ -21,9 +21,9 @@ The typical workflow is:
 
 LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step toward general custom embodiments is modifying the SO-101 by adding a motor. I added a linear actuator and built a scale model log splitter to perform autonomous log splitting on a desktop scale.
 
-#### Log Splitter
-
 ![Log splitter](images/log_splitter.png)
+
+#### Log Splitter
 
 [See the log splitter on YouTube](https://youtu.be/pou4PEhgJao)
 
