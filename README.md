@@ -1,6 +1,6 @@
 # LeRobot & the SO-101
 
-![SO-101 robot arm](images/grocery.png)
+![SO-101 robot arm](images/grocery.gif)
 
 ## What is the SO-101?
 
