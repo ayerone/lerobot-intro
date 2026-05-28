@@ -1,8 +1,10 @@
 # LeRobot & the SO-101
 
+![SO-101 robot arm](images/grocery.png)
+
 ## What is the SO-101?
 
-The SO-101 is an affordable, open-source robot arm and the standard hardware platform for the [Hugging Face LeRobot](https://huggingface.co/docs/lerobot/index) ecosystem. LeRobot provides tools and pretrained models that make it straightforward to apply imitation learning and reinforcement learning to a physical robot you can build at home.
+The SO-101 is an affordable, open-source robot arm and the standard hardware platform for the [Hugging Face LeRobot](https://huggingface.co/docs/lerobot/index) ecosystem. LeRobot provides tools and pretrained models that make it straightforward to apply cutting edge robotics techniques like imitation learning and reinforcement learning to a physical robot you can build at home.
 
 ## Getting Started
 
@@ -17,12 +19,18 @@ The typical workflow is:
 
 ### Modified Embodiments
 
-LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step is modifying the SO-101 embodiment by adding a motor. I connected this to a scale model logsplitter to perform autonomous log splitting on a desktop scale: [Check it out on YouTube](https://youtu.be/pou4PEhgJao)
+LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-101). A natural first step toward general custom embodiments is modifying the SO-101 by adding a motor. I connected this to a scale model logsplitter to perform autonomous log splitting on a desktop scale.
 
-[lerobot-logsplitter](https://github.com/ayerone/lerobot-logsplitter)
+![Log splitter](images/log_splitter.png)
+
+[See the log splitter on YouTube](https://youtu.be/pou4PEhgJao)
+
+[Check out the log splitter on GitHub](https://github.com/ayerone/lerobot-logsplitter)
 
 [lerobot_haptic_feedback](https://github.com/ayerone/lerobot_haptic_feedback) — Feedback teleoperation
 
 ### Safety Measures
+
+![Motor load plot](images/motor_load.png)
 
 [lerobot-guardian-angle](https://github.com/ayerone/lerobot-guardian-angle) — Monitoring and safeguarding the SO-101's motors during operation
