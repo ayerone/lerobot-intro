@@ -31,7 +31,7 @@ LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-1
 
 #### Haptic Feedback Mod
 
-[lerobot_haptic_feedback](https://github.com/ayerone/lerobot_haptic_feedback) — Feedback teleoperation
+[lerobot_haptic_feedback](https://github.com/ayerone/lerobot-haptic-feedback) — Feedback teleoperation
 
 ### Safety Measures
 
