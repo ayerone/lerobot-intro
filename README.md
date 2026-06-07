@@ -2,7 +2,7 @@
 
 ![SO-101 robot arm checking groceries](images/grocery.gif)
 
-## What's New
+## ✨ What's New
 
 - **[Haptic Feedback Mod](https://github.com/ayerone/lerobot-haptic-feedback)** — feel the robot's gripping force through the teleoperator in real time
 
