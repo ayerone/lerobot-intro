@@ -29,7 +29,7 @@ LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-1
 
 First up: adding a linear actuator and building a scale model log splitter to perform autonomous log splitting on a desktop scale.
 
-![Log splitter](images/log_splitter.jpg)
+<img src="images/log_splitter.jpg" width="576" alt="Scale model log splitter robot">
 
 [See the log splitter on YouTube](https://youtu.be/pou4PEhgJao)
 
@@ -37,7 +37,7 @@ First up: adding a linear actuator and building a scale model log splitter to pe
 
 #### Haptic Feedback Mod
 
-![SO Feedback Leader](images/so_feedback_leader.jpg)
+<img src="images/so_feedback_leader.jpg" width="576" alt="SO-101 leader arm with gimbal motor">
 
 [lerobot_haptic_feedback](https://github.com/ayerone/lerobot-haptic-feedback) — Feedback teleoperation
 
