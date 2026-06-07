@@ -27,7 +27,7 @@ LeRobot is "hardware agnostic" (it can be used with any robot, not just the SO-1
 
 #### Log Splitter
 
-I added a linear actuator and built a scale model log splitter to perform autonomous log splitting on a desktop scale.
+First up: adding a linear actuator and building a scale model log splitter to perform autonomous log splitting on a desktop scale.
 
 ![Log splitter](images/log_splitter.jpg)
 
