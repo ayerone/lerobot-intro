@@ -1,6 +1,10 @@
 # LeRobot & the SO-101
 
-![SO-101 robot arm](images/grocery.gif)
+![SO-101 robot arm checking groceries](images/grocery.gif)
+
+## What's New
+
+- **[Haptic Feedback Mod](https://github.com/ayerone/lerobot-haptic-feedback)** — feel the robot's gripping force through the teleoperator in real time
 
 ## What is the SO-101?
 
